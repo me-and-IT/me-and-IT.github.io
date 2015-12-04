@@ -1,5 +1,5 @@
 ---
-title: Friday the 27th 
+title: Friday the 27th
 layout: post
 author: nivethan.thavaraj
 permalink: /untitled-document/
